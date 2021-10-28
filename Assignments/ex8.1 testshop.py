@@ -1,0 +1,307 @@
+print("---------Login successful--------------")
+print("------Welcome to Kop's Shop------------")
+print("---------------------------------------")
+print("Item List---------------------Price----")
+print("1.pen                         10.00    ")
+print("2.pencil                       2.00    ")
+print("3.eraser                       4.00    ")
+print("4.ruler                        7.00    ")
+print("5.book                        15.00    ")
+print("---------------------------------------")
+print("---------------------------------------")
+item1 = "pen"
+item1_price = 10
+item1_amount = 0
+item2 = "pencil"
+item2_price = 2
+item2_amount = 0
+item3 = "eraser"
+item3_price = 4
+item3_amount = 0
+item4 = "ruler"
+item4_price = 7
+item4_amount = 0
+item5 = "book"
+item5_price = 15
+item5_amount = 0
+order1 = int(input("please select items you want( 1 to 5)"))
+order1_amount = int(input("How many you want?"))
+if order1 == 1:
+    item1_amount += order1_amount
+elif order1 == 2:
+    item2_amount += order1_amount
+elif order1 == 3:
+    item3_amount += order1_amount
+elif order1 == 4:
+    item4_amount += order1_amount
+elif order1 == 5:
+    item5_amount += order1_amount
+print(" your Shopping cart")
+print(item1, item1_amount)
+print(item2, item2_amount)
+print(item3, item3_amount)
+print(item4, item4_amount)
+print(item5, item5_amount)
+
+continueIndex = input("Do you want to continue shopping? (y/n)")
+
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
+if continueIndex == "y":
+    order1 = int(input("please select items you want( 1 to 5)"))
+    order1_amount = int(input("How many you want?"))
+    if order1 == 1:
+        item1_amount += order1_amount
+    elif order1 == 2:
+        item2_amount += order1_amount
+    elif order1 == 3:
+        item3_amount += order1_amount
+    elif order1 == 4:
+        item4_amount += order1_amount
+    elif order1 == 5:
+        item5_amount += order1_amount
+    print(" your Shopping cart")
+    print(item1, item1_amount)
+    print(item2, item2_amount)
+    print(item3, item3_amount)
+    print(item4, item4_amount)
+    print(item5, item5_amount)
+    continueIndex = input("Do you want to continue shopping? (y/n)")
