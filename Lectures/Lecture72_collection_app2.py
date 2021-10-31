@@ -24,4 +24,4 @@ def total(x):
 
 showBill()
 totalPrice = total(menuList)
-print("totalprice".ljust(15, "-"), str(totalPrice).rjust(15, "-"))
+print("total price".ljust(15, "-"), str(totalPrice).rjust(15, "-"))
