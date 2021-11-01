@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8030a679-f83c-431b-91ca-1d69dfad6b2f" name="Changes" comment="" />
+    <list default="true" id="8030a679-f83c-431b-91ca-1d69dfad6b2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture101_dev_objects_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture102_heart_of_object_programming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture103_class_attribute_behavior_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture104_class_attribute_behavior_object_practice.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +34,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="205PpDH5WPBLbxXbRysDqnzwTYl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Exercise21_Kopchai.C">
+  <component name="RunManager" selected="Python.Lecture104_class_attribute_behavior_object_practice">
     <configuration name="Exercise11_Kopchai_C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lecture47(BreakAndContinue)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture101_dev_objects_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lectures/Lecture47(BreakAndContinue).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lectures/Lecture101_dev_objects_program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lecture49(LoopProgram)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture104_class_attribute_behavior_object_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lectures/Lecture49(LoopProgram).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lectures/Lecture104_class_attribute_behavior_object_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lecture104_class_attribute_behavior_object_practice" />
+        <item itemvalue="Python.Lecture101_dev_objects_program" />
         <item itemvalue="Python.Exercise21_Kopchai.C" />
         <item itemvalue="Python.Tip-how to print in the same row on Loop" />
         <item itemvalue="Python.Exercise11_Kopchai_C" />
-        <item itemvalue="Python.Lecture49(LoopProgram)" />
-        <item itemvalue="Python.Lecture47(BreakAndContinue)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +193,17 @@
       <updated>1635331655534</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
