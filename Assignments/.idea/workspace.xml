@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8030a679-f83c-431b-91ca-1d69dfad6b2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture107_overriding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture109_encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture110_OOP_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture111_API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture112_design_API_program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture113_how_to_use API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture114_forex_python_project.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise21_Kopchai.C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise21_Kopchai.C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lectures/Lecture105_inher.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lectures/Lecture105_inher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lectures/Lecture114_forex_python_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lectures/Lecture114_forex_python_project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Lecture105_inher">
+  <component name="RunManager" selected="Python.Lecture114_forex_python_project">
     <configuration name="Exercise21_Kopchai.C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,8 +178,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lecture105_inher" />
         <item itemvalue="Python.Lecture114_forex_python_project" />
+        <item itemvalue="Python.Lecture105_inher" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Exercise21_Kopchai.C" />
         <item itemvalue="Python.Lecture113_how_to_use API" />
