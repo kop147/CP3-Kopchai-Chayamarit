@@ -40,6 +40,10 @@ def trend(data):
     return type_indicator, up_down_indicator
 
 
+def click():
+    label_result.configure(text="please wait")
+
+
 def get_values():
     from_date = date(int(from_year_combobox.get()), int(from_month_combobox.get()), int(from_day_combobox.get()))
     to_date = date(int(to_year_combobox.get()), int(to_month_combobox.get()), int(to_day_combobox.get()))
@@ -50,7 +54,7 @@ def get_values():
     if day_count <= 0:
         label_result.configure(text="error please enter date again!!!")
     elif future_check <= 0:
-        label_result.configure(text="error please enter date again!!!")
+        label_result.configure(text="BitCoin Rates Source Not Ready For Given date")
     else:
         list_of_day = []
         for i in range(day_count):
@@ -78,7 +82,13 @@ year_list = [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2
 input_day = ""
 main_window = Tk()
 
-main_window.title("Bitcoin Trend")
+main_window.title("Bitcoin Short Trend")
+
+warning_label = Label(main_window, text="For best result: data enter should not longer than 1 month time", fg="red")
+warning_label.grid(row=0, columnspan=5, sticky="ew")
+
+warning_label2 = Label(main_window, text="the longer a period, the longer time it will take", fg="red")
+warning_label2.grid(row=1, columnspan=5, sticky="ew")
 
 from_label = Label(main_window, text="FROM").grid(row=2, column=0, rowspan=2, sticky='ns')
 
@@ -119,6 +129,6 @@ to_year_combobox.grid(row=5, column=4)
 calculate_button = Button(main_window, text="Calculate The Trend", command=get_values)
 calculate_button.grid(row=6, columnspan=5, sticky='ew')
 
-label_result = Label(main_window, text="Currently trend is", font=("Helvetica", 36))
+label_result = Label(main_window, text="", font=("Helvetica", 36))
 label_result.grid(row=7, columnspan=5, rowspan=3, sticky='nsew')
 main_window.mainloop()
