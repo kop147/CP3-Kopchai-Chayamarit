@@ -6,7 +6,6 @@ def bmi_index(event):
     y = float(textBoxHeightInput.get())/100
     x = float(textboxWeightInput.get())
     result = (x/(math.pow(y, 2)))
-    print(result)
     result_read = "x"
     if result < 18.5:
         result_read = "Eat More"
@@ -20,6 +19,7 @@ def bmi_index(event):
         result_read = "Too Fat"
     labelResult.configure(text=(x / (math.pow(y, 2))))
     labelResult2.configure(text=result_read)
+    return result
 
 
 mainWindow = Tk()
@@ -38,3 +38,6 @@ labelResult2 = Label(mainWindow, text="result read", width=20, fg="red")
 labelResult2.grid(row=3, columnspan=2)
 
 mainWindow.mainloop()
+bmi_result = bmi_index
+print(bmi_result)
+

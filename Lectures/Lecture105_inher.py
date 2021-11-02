@@ -14,14 +14,17 @@ class Car(Vehicle):
 
 class PickUp(Vehicle):
     load = 20
+
     def weight_load(self):
         print("This truck can load up to", self.load, "tonnages")
 
 
 class Van(Vehicle):
     passenger = 15
+
     def passenger_load(self):
         print("This van can load up to", self.passenger, "people")
+
 
 class EstateCar(Vehicle):
     passenger = 30

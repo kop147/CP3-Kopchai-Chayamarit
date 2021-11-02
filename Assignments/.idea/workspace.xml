@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8030a679-f83c-431b-91ca-1d69dfad6b2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture101_dev_objects_program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture102_heart_of_object_programming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture103_class_attribute_behavior_object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture104_class_attribute_behavior_object_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture107_overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture109_encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture110_OOP_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture111_API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture112_design_API_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture113_how_to_use API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lectures/Lecture114_forex_python_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise21_Kopchai.C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise21_Kopchai.C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lectures/Lecture105_inher.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lectures/Lecture105_inher.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +39,11 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Exercise21_Kopchai.C.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Lectures/Lecture104_class_attribute_behavior_object_practice.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Lectures/Lecture110_OOP_app.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="205PpDH5WPBLbxXbRysDqnzwTYl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,28 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Lecture104_class_attribute_behavior_object_practice">
-    <configuration name="Exercise11_Kopchai_C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise11_Kopchai_C.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lecture105_inher">
     <configuration name="Exercise21_Kopchai.C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lecture101_dev_objects_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture105_inher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lectures/Lecture101_dev_objects_program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lectures/Lecture105_inher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lecture104_class_attribute_behavior_object_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture113_how_to_use API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lectures/Lecture104_class_attribute_behavior_object_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lectures/Lecture113_how_to_use API.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tip-how to print in the same row on Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture114_forex_python_project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lectures/Tip-how to print in the same row on Loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lectures/Lecture114_forex_python_project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,13 +163,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lectures" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lectures/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lecture104_class_attribute_behavior_object_practice" />
-        <item itemvalue="Python.Lecture101_dev_objects_program" />
+        <item itemvalue="Python.Lecture105_inher" />
+        <item itemvalue="Python.Lecture114_forex_python_project" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.Exercise21_Kopchai.C" />
-        <item itemvalue="Python.Tip-how to print in the same row on Loop" />
-        <item itemvalue="Python.Exercise11_Kopchai_C" />
+        <item itemvalue="Python.Lecture113_how_to_use API" />
       </list>
     </recent_temporary>
   </component>
